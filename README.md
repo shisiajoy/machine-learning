@@ -1,4 +1,4 @@
-# MACHINE-LEARNING-1
+# MACHINE-LEARNING
 
 This repo contains machine learning notebooks for different tasks and applications.
 
